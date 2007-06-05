@@ -1,0 +1,1 @@
+plot 'prediction_report_3.log' using 1:2 title "accel0" with lines, 'prediction_report_3.log' using 1:3 title "x-pred" with lines, 'prediction_report_3.log' using 1:4 title "accel1" with lines, 'prediction_report_3.log' using 1:5 title "y-pred" with lines

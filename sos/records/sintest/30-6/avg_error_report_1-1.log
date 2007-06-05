@@ -1,0 +1,4 @@
+time: 9.40230902778	x_noise: 0	avg_x_error: 0	var_x_error: 0	y_noise: 0	avg_y_error: 0	var_y_error: 0
+time: 48.9186545139	x_noise: 1.0	avg_x_error: 0.582869345774	var_x_error: 0.000186251776754	y_noise: 1.0	avg_y_error: 0.582869345774	var_y_error: 0.000186251776754
+time: 86.5268229167	x_noise: 1.0	avg_x_error: 0.620293677621	var_x_error: 0.00179879777221	y_noise: 1.0	avg_y_error: 0.620293677621	var_y_error: 0.00179879777221
+time: 93.8996440972	x_noise: 1.0	avg_x_error: 0.524266170836	var_x_error: 0.00077640160398	y_noise: 1.0	avg_y_error: 0.524266170836	var_y_error: 0.00077640160398
